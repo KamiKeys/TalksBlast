@@ -1,3 +1,4 @@
+[< Inicio](./README.md)
 # DotNet Málaga 2018
 ## Machine Learning
 1. **Inputs** o datos de capacitación son los datos que recibe el modelo. Debemos tener muy claro que datos necesitará nuestro modelo para realizar sus predicciones. Por ejemplo, si nuestro modelo va a predecir el tiempo de llegada a un lugar nuestros _inputs_ serán datos como el tráfico de la zona, el punto de partida, el punto de destino, etc, pero no necesitara datos como el modelo del coche en el que vamos o la marca de las zapatillas que llevaremos para llegar andando a nuestro destino.
