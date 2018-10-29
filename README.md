@@ -1,6 +1,5 @@
 # TalksBlast
 
-[![GitHub release](https://img.shields.io/github/release/KamiKeys/TalksBlast.svg)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/KamiKeys/TalksBlast.svg)]()
 [![GitHub issues](https://img.shields.io/github/issues/KamiKeys/TalksBlast.svg)]()
 [![GitHub stars](https://img.shields.io/github/stars/KamiKeys/TalksBlast.svg)]()
