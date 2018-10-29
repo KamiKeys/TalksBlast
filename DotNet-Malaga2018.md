@@ -25,3 +25,6 @@ Existen **_modelos predefinidos_ que se pueden entrenar para nuestra casuística
 + [Azure Conitive Service](https://customvision.ai/)
 + [ML Kit](https://developers.google.com/ml-kit/)(Android)
 + [Core ML](https://developer.apple.com/documentation/coreml)(iOS)
+  
+---  
+[Volver al &iacute;ndice](https://github.com/KamiKeys/TalksBlast/blob/master/README.md)
