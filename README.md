@@ -14,3 +14,4 @@ Con ello pretendemos compartir toda esa información para la gente que no pudo i
 
 ## Eventos
 + [dotNETMalalaga2018](./dotNetMalaga2018/dotNetMalaga2018.md)
++ [Talent Woman 2018](./talentwoman2018/tw2018.md)
