@@ -13,5 +13,7 @@
 Con ello pretendemos compartir toda esa información para la gente que no pudo ir en su momento, o para los que quieren mantenerla. Todos sois bienvenidos para mejorar la información y hacer un buen uso de ella. ¡Un saludo!
 
 ## Eventos
+
 + [dotNETMalalaga2018](./dotNetMalaga2018/dotNetMalaga2018.md)
 + [Talent Woman 2018](./talentwoman2018/tw2018.md)
++ [dotNETMalalaga2019](./dotNetMalaga2019/dotNetMalaga2019.md)
